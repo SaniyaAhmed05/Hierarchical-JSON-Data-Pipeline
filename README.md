@@ -16,5 +16,7 @@ To build this project, the following tools were used:
 * DataFrames
 * AWS Step Functions
 * Parquet Format
+* Git
+* Web API
 # Architecture
 Following is the architecture of the project.
