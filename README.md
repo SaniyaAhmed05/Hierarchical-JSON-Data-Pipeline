@@ -7,7 +7,7 @@ The journey starts with raw JSON data that can be deeply nested and hard to quer
 To make the pipeline reliable and automated, I orchestrated the workflow using AWS Step Functions, ensuring it can run at scale and recover gracefully from errors. The result is a pipeline that delivers clean, optimized, and ready-to-use data for downstream analytics and business reporting.
 
 
-# The repository directory structure is as follows:
+The repository directory structure is as follows:
 ```hierarchical-json-data-pipeline/
 │
 ├── README.md
