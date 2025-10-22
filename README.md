@@ -6,10 +6,6 @@ The journey starts with raw JSON data that can be deeply nested and hard to quer
 
 To make the pipeline reliable and automated, I orchestrated the workflow using AWS Step Functions, ensuring it can run at scale and recover gracefully from errors. The result is a pipeline that delivers clean, optimized, and ready-to-use data for downstream analytics and business reporting.
 The repository directory structure is as follows:
-- `src/etl.py` - Main ETL script
-- `data/raw/` - Contains input JSON files
-- `data/processed/` - Contains output CSV/Parquet files
-- `images/` - Architecture diagram showing the pipeline flow
 # Tools
 To build this project, the following tools were used:
 * AWS S3
