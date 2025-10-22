@@ -18,8 +18,8 @@ The repository directory structure is as follows:
 │ └── processed/ # Output examples of flattened data
 │
 └── images/
-└── architecture_web_api.png # Architecture diagram```
-
+└── architecture_web_api.png # Architecture diagram
+```
 # Tools
 To build this project, the following tools were used:
 * AWS S3
