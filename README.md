@@ -15,14 +15,15 @@ The repository directory structure is as follows:
 ├── src/
 │ └── etl.py # Single file containing Extract, Transform, Load
 │
-│
 ├── data/
 │ ├── raw/ # Sample raw JSON data from Web API
-│
 │ └── processed/ # Output examples of flattened data
 │
-└── images/
-└── architecture_web_api.png # Architecture diagram
+├── images/
+│ ├── architecture_web_api.png # Architecture diagram
+│ ├── ss1.png # Screenshot 1
+│ └── ss2.png # Screenshot 2
+
 ```
 # Tools
 To build this project, the following tools were used:
